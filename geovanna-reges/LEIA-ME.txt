@@ -1,0 +1,46 @@
+====================================================
+  GEOVANNA REGES ADVOCACIA — INSTRUÇÕES DO SITE
+====================================================
+
+ARQUIVOS INCLUÍDOS:
+  index.html  — Estrutura do site
+  style.css   — Estilos e design
+  script.js   — JavaScript / animações
+  logo.png    — Logo (já incluída)
+  LEIA-ME.txt — Este arquivo
+
+------------------------------------------------------
+FOTOS A SUBSTITUIR (obrigatório para usar o site):
+------------------------------------------------------
+
+1. foto-hero.jpg
+   → Foto principal no Hero (topo do site)
+   → Retrato vertical, fundo neutro ou escuro
+   → Sugestão: 800x1100px ou maior
+
+2. foto-sobre.jpg
+   → Foto institucional na seção "Sobre"
+   → Layout mais formal, pode ser horizontal
+   → Sugestão: 700x900px ou maior
+
+3. foto-destaque.jpg
+   → Foto circular na seção de destaque
+   → Foto mais próxima, sorriso leve
+   → Sugestão: quadrada 600x600px ou maior
+
+------------------------------------------------------
+COMO PUBLICAR:
+------------------------------------------------------
+  - Faça o upload de todos os arquivos para seu
+    serviço de hospedagem (ex: Hostgator, GoDaddy,
+    Netlify, Vercel, etc.)
+  - Certifique-se que o index.html está na raiz
+
+------------------------------------------------------
+PERSONALIZAÇÃO:
+------------------------------------------------------
+  - OAB: Adicione seu número no rodapé (index.html)
+  - LinkedIn: Troque "geovannareges" pela sua URL real
+  - Cores: Edite as variáveis CSS no início do style.css
+
+====================================================
